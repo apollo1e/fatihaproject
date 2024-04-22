@@ -1,0 +1,29 @@
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    font-family: 'Amiri', serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    color: #22577A;
+}
+p {
+    background-color: #fff;
+    border-right: 5px solid #22577A;
+    color: #333;
+    font-size: 1.4em;
+    padding: 10px 20px;
+    margin: 10px auto;
+    width: 90%;
+    max-width: 600px;
+    text-align: right;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+span {
+    cursor: pointer;
+}
+.clicked {
+    color: red;
+}
